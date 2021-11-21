@@ -1,0 +1,15 @@
+base:
+  base_dir: "/home1/quanquan/code/landmark/code/runs/select/"
+  experiment: 'select'
+  tag: ''
+  stage: ''
+logger:
+  mode: ''
+
+dataset:
+  name: 'Cephalometric'
+  pth: '/home1/quanquan/datasets/Cephalometric/'
+  n_cls: 19
+
+training:
+  non_local: true

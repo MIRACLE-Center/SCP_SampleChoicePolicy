@@ -1,0 +1,12 @@
+base:
+  base_dir: "../runs/debug/"
+  experiment: 'debug'
+  tag: ''
+  stage: ''
+logger:
+  mode: ''
+
+dataset:
+  name: 'Cephalometric'
+  pth: '/home1/quanquan/datasets/Cephalometric/'
+  n_cls: 19
