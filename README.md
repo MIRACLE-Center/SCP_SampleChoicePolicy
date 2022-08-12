@@ -1,5 +1,5 @@
 # Sample Select Policy
-
+Which images to label for few-shot medical landmark detection? 
 
 
 
@@ -72,6 +72,17 @@ python -m sc.select.test_specific_ids --indices xxx
 
 # License
 This code is released under the Apache 2.0 license. Please see the [LICENSE](LICENSE) file for more information.
+
+```
+@InProceedings{Quan_2022_CVPR,
+    author    = {Quan, Quan and Yao, Qingsong and Li, Jun and Zhou, S. Kevin},
+    title     = {Which Images To Label for Few-Shot Medical Landmark Detection?},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {20606-20616}
+}
+```
 
 
    
