@@ -70,9 +70,10 @@ python -m sc.select.test_by_multi --tag xx
 python -m sc.select.test_specific_ids --indices xxx
 ```
 
-# License
+## License
 This code is released under the Apache 2.0 license. Please see the [LICENSE](LICENSE) file for more information.
 
+## Citation
 ```
 @InProceedings{Quan_2022_CVPR,
     author    = {Quan, Quan and Yao, Qingsong and Li, Jun and Zhou, S. Kevin},
